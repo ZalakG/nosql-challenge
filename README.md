@@ -8,8 +8,11 @@ The UK Food Standards Agency evaluates various establishments across the United 
 This challenge has divided into three parts:
 
 Part 1: Database and Jupyter Notebook Set Up
+
 Part 2: Update the Database
+
 Part 3: Exploratory Analysis
+
 
 There are two .ipynb files included for code
 Resources folder contains establishments.json file.
